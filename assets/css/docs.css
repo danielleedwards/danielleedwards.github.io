@@ -200,7 +200,7 @@ body {
 .bs-header {
   color: #cdbfe3;
   background-color: #563d7c;
-  background-image: <img src="assets/ico/mpg.png"
+  background-image: url(http://danielleedwards.github.io/assets/ico/mpg.png)="assets/ico/mpg.png")
 
 
 /*
