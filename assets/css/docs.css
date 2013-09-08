@@ -44,28 +44,28 @@ body {
 
 /* Outline button for use within the docs */
 .btn-outline {
-  color: #563d7c;
-  background-color: #fff;
-  border-color: #e5e5e5;
+  color: #610B38;
+  background-color: #610B38;
+  border-color: #610B38;
 }
 .btn-outline:hover,
 .btn-outline:focus,
 .btn-outline:active {
-  color: #fff;
-  background-color: #563d7c;
-  border-color: #563d7c;
+  color: #610B38;
+  background-color: #610B38;
+  border-color: #610B38;
 }
 
 /* Inverted outline button (white on dark) */
 .btn-outline-inverse {
   color: #fff;
   background-color: transparent;
-  border-color: #cdbfe3;
+  border-color: #610B38;
 }
 .btn-outline-inverse:hover,
 .btn-outline-inverse:focus,
 .btn-outline-inverse:active {
-  color: #563d7c;
+  color: #610B38;
   text-shadow: none;
   background-color: #fff;
   border-color: #fff;
@@ -80,12 +80,12 @@ body {
 
 .bs-docs-nav {
   text-shadow: 0 -1px 0 rgba(0,0,0,.15);
-  background-color: #563d7c;
-  border-color: #463265;
+  background-color: #610B38;
+  border-color: #610B38;
   box-shadow: 0 1px 0 rgba(255,255,255,.1);
 }
 .bs-docs-nav .navbar-collapse {
-  border-color: #463265;
+  border-color: #610B38;
 }
 .bs-docs-nav .navbar-brand {
   color: #fff;
@@ -99,7 +99,7 @@ body {
 .bs-docs-nav .navbar-nav > .active > a,
 .bs-docs-nav .navbar-nav > .active > a:hover {
   color: #fff;
-  background-color: #463265;
+  background-color: #610B38;
 }
 .bs-docs-nav .navbar-toggle {
   border-color: #563d7c;
