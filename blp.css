@@ -55,7 +55,14 @@ table {
 
 a{text-decoration: none}
 
+@font-face {
+  font-family: PopJazz;
+  src: url(PopJazz.ttf);
+}
 
+body {
+  font-family: 'PopJazz';
+}
 
 .logo{
 
