@@ -55,12 +55,7 @@ table {
 
 a{text-decoration: none}
 
-@font-face
-
-{
-font-family: Pop & Jazz;
-
-src: url("Pop&Jazz.ttf") 
+@font-face{font-family: Pop & Jazz;src: url("Pop&Jazz.ttf") 
 }
 
 
