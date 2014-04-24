@@ -55,6 +55,15 @@ table {
 
 a{text-decoration: none}
 
+@font-face
+
+{
+font-family: Pop & Jazz;
+
+src: url("Pop&Jazz.ttf") 
+}
+
+
 
 
 .logo{
@@ -82,11 +91,12 @@ a{text-decoration: none}
   font-size: 90px;
   padding-top: 300px;
 
+
 }
 
 .tagline{
 
-   display: block;
+  display: block;
   position: relative;
   float:center;
   color: white;
@@ -102,6 +112,7 @@ a{text-decoration: none}
 }
 .line{
 display:block;
+color:white;
 border-style:dashed;
 width:1200px;
 text-align: center;
